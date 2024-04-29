@@ -1,18 +1,2 @@
-# Esercizio 1C
-Lettura
-
-## Brief
-Leggere il testo di Kleist e scrivere un commento e publiccarlo nel file README.md.
-
-## Restrizioni
-- 500-1000 caratteri
-
-## Consegna
-Pubblicare il commento sulla piattaforma GitHub nel file README.md.
-
-## Struttura cartella
-```
-GIM/esercizio_1C
-	README.md
-``` 
-
+# COMMENTO TESTO - ESERCIZIO C
+Il testo "Sul Teatro Di Marionette" di Heinrich Von Kleist esplora il tema della grazia nei movimenti umani confrontandola con la perfezione meccanica delle marionette. Attraverso un dialogo tra due personaggi, si riflette sulla relazione tra conoscenza e purezza del movimento. L'immagine dell'orso che sfida a scherma il signore, rappresenta il conflitto tra istinto e ragione umana. In sintesi, il testo propone una riflessione sulla complessità dell'essere umano e su come interagisce con il mondo.
