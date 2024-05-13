@@ -29,3 +29,9 @@ https://tommifunky.github.io/GIM/Esercizio_1C/README.md
 
 ### Esercizio 2
 
+### Esercizio 3A
+
+
+### Esercizio 3B
+
+
