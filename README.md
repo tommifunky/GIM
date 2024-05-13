@@ -28,10 +28,18 @@ https://tommifunky.github.io/GIM/Esercizio_1B/skater_mio.html
 https://tommifunky.github.io/GIM/Esercizio_1C/README.md
 
 ### Esercizio 2
+https://tommifunky.github.io/GIM/Esercizio_2/
 
 ### Esercizio 3A
-
+https://tommifunky.github.io/GIM/Esercizio_3A/index.html
 
 ### Esercizio 3B
+https://tommifunky.github.io/GIM/Esercizio_3B/esempio_1/index.html
+https://tommifunky.github.io/GIM/Esercizio_3B/pong/index.html
+https://tommifunky.github.io/GIM/Esercizio_3B/pong_v2/index.html
+https://tommifunky.github.io/GIM/Esercizio_3B/pioggia/index.html
+https://tommifunky.github.io/GIM/Esercizio_3B/neve/index.html
+
+
 
 
