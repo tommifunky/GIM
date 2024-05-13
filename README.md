@@ -44,3 +44,13 @@ https://tommifunky.github.io/GIM/Esercizio_3B/neve/index.html
 
 
 
+
+
+
+
+
+### Prove personali
+https://tommifunky.github.io/GIM/X_prove/esempio_translate/index.html
+https://tommifunky.github.io/GIM/X_prove//index.html
+https://tommifunky.github.io/GIM/X_prove//index.html
+
