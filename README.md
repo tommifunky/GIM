@@ -31,7 +31,8 @@ https://tommifunky.github.io/GIM/Esercizio_1C/README.md
 https://tommifunky.github.io/GIM/Esercizio_2/
 
 ### Esercizio 3A
-https://tommifunky.github.io/GIM/Esercizio_3A/index.html
+https://tommifunky.github.io/GIM/Esercizio_3A/orologio_digitale/index.html
+https://tommifunky.github.io/GIM/Esercizio_3A/
 
 ### Esercizio 3B
 https://tommifunky.github.io/GIM/Esercizio_3B/esempio_1/index.html
