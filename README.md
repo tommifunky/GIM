@@ -39,7 +39,6 @@ https://tommifunky.github.io/GIM/Esercizio_3B/neve/index.html
 https://tommifunky.github.io/GIM/Esercizio_3B/pong/index.html
 https://tommifunky.github.io/GIM/Esercizio_3B/pong_v2/index.html
 https://tommifunky.github.io/GIM/Esercizio_3B/pong_v3/index.html
-https://tommifunky.github.io/GIM/Esercizio_3B/pong_v4/index.html
 
 
 
