@@ -1,19 +1,22 @@
-let posizioneX, posizioneY
-let velX, velY
+let posX, posY;
+let velX, velY;
+let colore;
 
 function setup() {
-	createCanvas(windowWidth, windowHeight)
-	background(0); // Per sfondo nero
+  createCanvas(windowWidth, windowHeight);
 
-	posizioneX = width/2
-	posizioneY = height/2
+  posX = width / 2;
+  posY = height / 2;
 
-	velX = random(15, 20)
-	velY = random(5, 20)
-}
+  velX = random(25, 34);
+  velY = random(8, 25);
+  
+  colore = random(255, 255, 255);
 
-function windowResized() {
-	resizeCanvas(windowWidth, windowHeight)
+  dimensione_cerchio = 50; // Creo variabile dimensione iniziale del cerchio
+  dimensione_incremento = 5; // Creo variabile velocità di cambiamento della dimensione
+
+  background(0);
 }
 
 function keyPressed() {
@@ -22,29 +25,33 @@ function keyPressed() {
 	}
 }
 
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
+
 function draw() {
-    posizioneX = posizioneX + velX;
-    posizioneY = posizioneY + velY;
+  posX = posX + velX;
+  posY = posY + velY;
 
-    if (posizioneX >= width || posizioneX < 0) {
-        velX = -velX;
-    }
+  if (posX >= width || posX < 0) {
+    velX = -velX;
+    colore = color(random(256), random(256), random(256)); // Cambia colore quando cambia la velocità
+  }
 
-    if (posizioneY >= height || posizioneY < 0) {
-        velY = -velY;
-    }
+  if (posY >= height || posY < 0) {
+    velY = -velY;
+    colore = color(random(256), random(256), random(256)); // Cambia colore quando cambia la velocità
+  }
 
-    fill(random(256), random(256), random(256));
-    noStroke();
+  // Aggiorna la dimensione del cerchio
+  dimensione_cerchio += dimensione_incremento;
 
-    // Scegli un carattere casuale dalla tastiera
-	// let = creo una variabile carattere
-	// String.fromCharCode = Converto un numero nel suo corrispettivo ASCII
-	// 65, 123 = i numeri dei codici asci dalla A alla z
-    let carattere = String.fromCharCode(int(random(65, 123)));
+  // Inverto la direzione del cambiamento della dimensione SE raggiungo UNO dei limiti
+  if (dimensione_cerchio >= 100 || dimensione_cerchio <= 50) {
+    dimensione_incremento = -dimensione_incremento;
+  }
 
-	// textSize() = imposto la dimensione del testo, uguale a quella dell'esempio
-    textSize(random(50, 200));
-	// text() stampa testo in una posizione. cosa_stampo, coord x, coord y
-    text(carattere, posizioneX, posizioneY);
+  fill(colore); // Utilizza il colore aggiornato
+  noStroke();
+  circle(posX, posY, dimensione_cerchio);
 }
