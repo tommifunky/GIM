@@ -12,7 +12,7 @@ function draw() {
 
 	translate(width/2, height/2)
 
-	const num = 12
+	const num = 30
 
 	randomSeed(0)
 
@@ -21,11 +21,13 @@ function draw() {
 		push()
 		for (let i=0; i<10; i++) {
 			const l = random(30, 60)
-			rotate(noise(j  + frameCount * 0.002) * 2 - 1)
-			fill(0)
+			rotate(noise(j  + frameCount * 0.004) * 2 - 1)
+			fill(random(255), random(255), random(255))
 			rect(0, -10, l, 20)
-			fill(255)
+			fill(random(255, random(255), random(255)))
 			circle(0, 0, 20)
+			fill(random(255), random(255), random(255))
+			rect(0, 0, 20)
 			translate(l, 0)
 			scale(0.9)
 		}

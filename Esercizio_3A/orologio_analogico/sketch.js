@@ -20,7 +20,7 @@ function draw() {
 	let angolo_minuti = (now.getMinutes() + now.getSeconds() / 60) / 60 * TWO_PI - HALF_PI;
 	let angolo_ore = ((now.getHours() % 12) + now.getMinutes() / 60) / 12 * TWO_PI - HALF_PI;
 
-	// Settore delle ore
+	// Settore delle ore 
 	//arc(x,y,larghezza,altezza,punto delle 12:00,orario_attuale)
 	fill(0);
 	arc(0, 0, 750, 750, -HALF_PI, angolo_ore);
