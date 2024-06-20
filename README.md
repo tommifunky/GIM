@@ -25,28 +25,17 @@ https://tommifunky.github.io/GIM/Esercizio_1C/README.md
 ### Esercizio 2
 https://tommifunky.github.io/GIM/Esercizio_2/tick_tock.html
 
-### Esercizio 3A
+### Esercizio 3A - Orologio
 https://tommifunky.github.io/GIM/Esercizio_3A/orologio_analogico/index.html
 
 ### Esercizio 3B
 https://tommifunky.github.io/GIM/Esercizio_3B/pioggia/index.html
+https://tommifunky.github.io/GIM/Esercizio_3B/pioggia_v2/index.html
 https://tommifunky.github.io/GIM/Esercizio_3B/neve/index.html
 https://tommifunky.github.io/GIM/Esercizio_3B/pong/index.html
 https://tommifunky.github.io/GIM/Esercizio_3B/pong_v2/index.html
-https://tommifunky.github.io/GIM/Esercizio_3B/pong_v3/index.html
 
-
-
-
-
-
-
-
-
-
-### Altro
-https://tommifunky.github.io/GIM/X_prove/esempio_1/index.html
+### Altre prove
 https://tommifunky.github.io/GIM/X_prove/esempio_polipo/index.html
-https://tommifunky.github.io/GIM/X_prove/pioggia_con_sore/index.html
-https://tommifunky.github.io/GIM/X_prove/prova_pong/index.html
+https://tommifunky.github.io/GIM/X_prove/pong_v3/index.html
 
