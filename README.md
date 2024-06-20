@@ -16,13 +16,8 @@ https://tommifunky.github.io/GIM/Esercizio_1A/rotazione_3.html
 https://tommifunky.github.io/GIM/Esercizio_1A/spostamento_2.html
 https://tommifunky.github.io/GIM/Esercizio_1A/spostamento_3.html
 
-https://tommifunky.github.io/GIM/Esercizio_1A/spostamento_2_v2.html
-https://tommifunky.github.io/GIM/Esercizio_1A/spostamento_3_v2.html
-
 ### Esercizio 1B
-https://tommifunky.github.io/GIM/Esercizio_1B/cerchietti_mio.html
-https://tommifunky.github.io/GIM/Esercizio_1B/pupazzo_mio.html
-https://tommifunky.github.io/GIM/Esercizio_1B/skater_mio.html
+https://tommifunky.github.io/GIM/Esercizio_1B/dittico.html
 
 ### Esercizio 1C
 https://tommifunky.github.io/GIM/Esercizio_1C/README.md
