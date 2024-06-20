@@ -36,6 +36,6 @@ https://tommifunky.github.io/GIM/Esercizio_3B/pong/index.html
 https://tommifunky.github.io/GIM/Esercizio_3B/pong_v2/index.html
 
 ### Altre prove
-https://tommifunky.github.io/GIM/X_prove/esempio_polipo/index.html
-https://tommifunky.github.io/GIM/X_prove/pong_v3/index.html
+https://tommifunky.github.io/GIM/X_Prove/esempio_polipo/index.html
+https://tommifunky.github.io/GIM/X_Prove/pong_v3/index.html
 
